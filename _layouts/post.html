@@ -1,6 +1,5 @@
 ---
 layout: default
-comments: true
 ---
 
 <article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
@@ -10,15 +9,8 @@ comments: true
   </header>
   <div class="post-content" itemprop="articleBody">
     {{ content }}
-        <div class="post-categories">
-
-        {% for category in page.categories %}
-            <a href="{{site.baseurl}}/{{category|slugize}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-        {% endfor %}
-    </div>
     {% include post-share.html %}
-
-
+  </div>
 </article>
-{% include disqus.html %}
+
+{% include comments.html %}

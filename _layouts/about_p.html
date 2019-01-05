@@ -11,14 +11,12 @@ layout: default
 
     <div id="archives">
     {% for category in site.categories %}
-      
+
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-    
-    <h3 class="category-head">{{ category_name }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
+
+    <h5><a href="{{site.baseurl}}/{{category_name}}">{{ category_name }}</a></h5>
+
   </div>
 {% endfor %}
 </div>
@@ -27,7 +25,7 @@ layout: default
   <input type="email" name="email" placeholder="Your Email">
   <textarea name="message" placeholder="Honest > Nice > Nasty"></textarea>
   <button type="submit">📮</button>
-  
+
 </form>
   </div>
 </article>

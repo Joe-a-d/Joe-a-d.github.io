@@ -17,10 +17,10 @@ Features added:
 
 5. Different Color Scheme
 
-![Home](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/sreen1.png "Homepage")
+![Home](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/screen3.png "Homepage")
 
 ![Label](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/screen2.png "Label")
 
-![Form](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/screen2.png "Contact Form")
+![Form](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/sreen1.png "Contact Form")
 
 

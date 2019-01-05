@@ -3,7 +3,7 @@ layout: post
 title: "Build Your Own Website"
 description: "Detailed walkthrough on how to setup your own website"
 comments: true
-categories: Uncategorized
+categories: uncategorized
 keywords: "jekyll, website, portfolio, thinkspace"
 ---
 

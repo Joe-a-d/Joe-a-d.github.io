@@ -1,7 +1,7 @@
 
 ## Personal Static Webpage
 
-![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg)
+![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![GENERATOR](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)
 
 Personal Tech blog, built on top of the Thinkspace theme using Jekyll.
 

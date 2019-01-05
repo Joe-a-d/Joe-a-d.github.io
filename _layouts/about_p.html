@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article class="page container">
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title }}</h1>
+  </header>
+  <div class="page-content">
+    {{ content }}
+
+    {% for category in site.categories %}
+        <a href="{{site.baseurl}}/{{category|slugize}}">{{category}}</a>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+
+    <form method="POST" action="https://formspree.io/2334590d@student.gla.ac.uk">
+  <input type="email" name="email" placeholder="Your Email">
+  <textarea name="message" placeholder="Honest > Nice > Nasty"></textarea>
+  <button type="submit">📮</button>
+  
+</form>
+  </div>
+</article>

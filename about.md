@@ -1,7 +1,25 @@
 ---
-layout: page
+layout: about_p
 title: About
 permalink: /about/
 ---
 
-I'm João Almeida-Domingues, based in the city of Glasgow where I'm currently undertaking an MsC in Computing Science at Glasgow University. Did you know that according to THE internet there are approx $$1.8 \times 10^9$$, and of those it seems that the average human only ventures on an average of 96 of those. That means that the odds of you having end up here by random are worse than those of *** I'll assume that there is something that I wrote that might be of interest to you. So thanks for stopping by, go bananas, and let me know what you think!
+If you came here from the first page I regret to inform you that you've came across the first inaccuracy present in this website (my name is actually (João)). But, even though this one was left on purpose, so that my name could be in compliance with the "unpronounceable names" International Standard, I'm sure there will be many more to come, so if you find any let me know [here](https://github.com/Joe-a-d/joe-a-d.github.io/issues) or drop me an email using the form below.
+
+#### Accurate Information:
+
+- Non-IS Name: João Almeida-Domingues
+- Natural Habitat: University of Glasgow Library
+- Skills : TBD
+
+#### Motivation
+
+- Improve...
+   Writing
+   Critical Reading of Research Papers
+
+- Share awesome typeset notes with other CS students/enthusiasts
+- Following the "Pass 'it' on to cement 'it' " heuristic
+- Pollute the saturated internet corner of personal/tech blogs
+
+#### Stuff...

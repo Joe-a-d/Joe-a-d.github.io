@@ -9,10 +9,10 @@ layout: default
   <div class="page-content">
     {{ content }}
 
-    {% for category in site.categories %}
-        <a href="{{site.baseurl}}/{{category|slugize}}">{{category}}</a>
-    {% unless forloop.last %}&nbsp;{% endunless %}
-    {% endfor %}
+    {% for category in post.categories %}
+                <a href="{{site.baseurl}}/{{category|slugize}}">{{category}}</a>
+            {% unless forloop.last %}&nbsp;{% endunless %}
+            {% endfor %}
 
     <form method="POST" action="https://formspree.io/2334590d@student.gla.ac.uk">
   <input type="email" name="email" placeholder="Your Email">

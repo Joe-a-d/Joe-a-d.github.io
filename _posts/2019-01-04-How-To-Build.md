@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to use this theme?"
+title: "Build Your Own Website"
 description: "Detailed walkthrough on how to setup your own website"
 comments: true
 categories: Uncategorized

@@ -21,7 +21,7 @@ keywords: "jekyll, website, portfolio, thinkspace"
 
 2. Start by adding the Front Matter within 2 pairs of 3 dashes (see image below, or open this post on Github) to the new file, this is important otherwise your page won't be formatted
 
-![](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/frontmatter.png)
+![Front Matter](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/frontmatter.png?raw=true)
 
 3. Write your content using Github flavoured [markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 

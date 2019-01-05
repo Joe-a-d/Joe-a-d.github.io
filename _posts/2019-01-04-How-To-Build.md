@@ -9,19 +9,19 @@ keywords: "jekyll, website, portfolio, thinkspace"
 
 ### Setting Up Github Pages
 
-1. Fork my Github repository https://github.com/Joe-a-d/joe-a-d.github.io , or check the original here https://github.com/heiswayi/thinkspace
+1. Fork my Github [repository](https://github.com/Joe-a-d/joe-a-d.github.io) , or check the original [here](https://github.com/heiswayi/thinkspace)
 
-2. Change the name of your repository to <you_username>.github.io
+2. Change the name of your repository to your_username.github.io
 
 3. Marvel at your new website
 
 ### Adding content
 
-1. Create a new file with the following name <year>-<month>-<day>-<somename>.md
+1. Create a new file with the following name year-month-day-somename.md
 
 2. Start by adding the Front Matter within 2 pairs of 3 dashes (see image below, or open this post on Github) to the new file, this is important otherwise your page won't be formatted
 
-![Home](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/frontmatter.png "Homepage")
+![](https://github.com/Joe-a-d/joe-a-d.github.io/blob/master/assets/images/frontmatter.png)
 
 3. Write your content using Github flavoured [markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 

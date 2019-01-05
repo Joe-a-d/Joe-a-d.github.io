@@ -12,6 +12,7 @@ layout: default
     {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
         <a href="{{site.baseurl}}/{{category|slugize}}">{{category_name}}</a>
+    {% endfor %}
 
     <form method="POST" action="https://formspree.io/2334590d@student.gla.ac.uk">
   <input type="email" name="email" placeholder="Your Email">

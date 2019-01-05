@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Class Notes
-permalink: /Notes/
+permalink: /notes/
 ---
 asda

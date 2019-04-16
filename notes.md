@@ -13,6 +13,10 @@ See github repos for more detailed information, like topics covered and original
 
 [Algebra 1S](https://github.com/Joe-a-d/LectureNotesUniversityOfGlasgow/blob/master/Year1/Algebra/1S/CourseNotesM1S.pdf)
 
+[Calculus 1R]()
+
+[Calculus 1S](https://github.com/Joe-a-d/LectureNotesUniversityOfGlasgow/blob/master/Year1/Calculus/CourseNotes1S.pdf)
+
 [Computer Systems 1](https://github.com/Joe-a-d/LectureNotesUniversityOfGlasgow/blob/master/Year1/CS/CourseNotesCS1.pdf)
 
 [Introduction to Economics](https://github.com/Joe-a-d/LectureNotesUniversityOfGlasgow/blob/master/Year1/IntroEconomics/CourseNotesIntroEco.pdf)
